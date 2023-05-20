@@ -1,0 +1,17 @@
+.colour-container {
+   display: flex;
+   justify-content: center;
+}
+
+.colour-item {
+    text-align: center;
+    width: 50%;
+    min-height: 50vh;
+    border-radius: 20px;
+}
+
+.colour h2 {
+    background-color: white;
+    font-weight: bolder;
+    font-size: 40px;
+}
